@@ -1,31 +1,32 @@
-### Hi, I'm Rey 👋
+# Hey, I'm Rey 👋
 
-BSc Computing & AI student at **Hong Kong PolyU** (2025–2029) on a full HK Government Scholarship.
-Indonesian. Based in Hong Kong. Building toward smart contract security research.
-
----
-
-#### What I'm doing
-
-- 🔒 Learning smart contract security — Cyfrin Updraft, Ethernaut, audit contests
-- 🧠 Teaching Assistant at the **NVIDIA Deep Learning Institute**
-- 🌊 Water polo for **PolyU** (USFHK league)
-
-#### Stack
-
-`Python` · `Solidity` · `TypeScript` · `Rust` · `C/C++` · `PyTorch` · `Foundry` · `React` · `Next.js`
-
-#### Recent work
-
-- **Blockchain Student Election System** — Solidity + Web3.js voting platform, deployed at high school level
-- **Conscioustravel.id** — full-stack travel platform (React/Next.js)
+**Computing & AI student @ PolyU Hong Kong**  
+🏛️ Hong Kong Government Scholar — HK$900,000  
+🤖 Teaching Assistant @ NVIDIA Deep Learning Institute  
+🥈 National Science Olympiad Silver — Informatics & Mathematics  
+🏊 National-level competitive swimmer → PolyU Water Polo athlete  
 
 ---
 
-#### Reach me
+## What I Build
+- Smart contracts and decentralized applications (Solidity, Web3.js)
+- AI and deep learning systems (PyTorch, TensorFlow)
+- Full-stack web platforms (React, Next.js, Node.js)
 
-[Email](mailto:reysendryabob@gmail.com) · [LinkedIn](https://www.linkedin.com/in/reysendrya-adhitya) · [GitHub](https://github.com/ReyAdhitya)
+## Currently
+- 🔐 Learning smart contract security research
+- ⚡ Building on Ethereum and EVM chains
+- 📚 Completing Cyfrin Updraft security track
 
-<br/>
+## Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=ReyAdhitya&show_icons=true&hide_border=true&theme=transparent&hide_title=true&include_all_commits=true)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reysendrya-adhitya)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:reysendryabob@gmail.com)
