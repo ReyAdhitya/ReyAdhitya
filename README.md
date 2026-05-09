@@ -14,9 +14,9 @@ National-level competitive swimmer → PolyU Water Polo athlete
 - Full-stack web platforms (React, Next.js, Node.js)
 
 ## Currently
-- 🔐 Learning smart contract security research
-- ⚡ Building on Ethereum and EVM chains
-- 📚 Completing Cyfrin Updraft security track
+- Learning smart contract security research
+- Building on Ethereum and EVM chains
+- Completing Cyfrin Updraft security track
 
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
