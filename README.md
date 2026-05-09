@@ -1,10 +1,10 @@
 # Hey, I'm Rey 👋
 
 **Computing & AI student @ PolyU Hong Kong**  
-🏛️ Hong Kong Government Scholar — HK$900,000  
-🤖 Teaching Assistant @ NVIDIA Deep Learning Institute  
-🥈 National Science Olympiad Silver — Informatics & Mathematics  
-🏊 National-level competitive swimmer → PolyU Water Polo athlete  
+Hong Kong Government Scholar - HK$900,000  
+Teaching Assistant @ NVIDIA Deep Learning Institute  
+National Science Olympiad Silver - Informatics & Mathematics  
+National-level competitive swimmer → PolyU Water Polo athlete  
 
 ---
 
