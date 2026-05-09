@@ -1,4 +1,4 @@
-# Hey, I'm Rey 👋
+# Hello, I'm Rey 👋
 
 **Computing & AI student @ PolyU Hong Kong**  
 Hong Kong Government Scholar - HK$900,000  
